@@ -1,0 +1,87 @@
+<LineMap>
+    <Position text_chs="望城坡" text_en="Wangchengpo" stationId="0201" coords_chs="638,944,662,968" id="100" coords_en="638,944,662,968" lineId="0"/>
+    <Position text_chs="尚双塘" text_en="Shangshuangtang" stationId="0101" coords_chs="1208,1762,1232,1786" id="100" coords_en="1208,1762,1232,1786" lineId="0"/>
+    <Position text_chs="金星路" text_en="Jinxing Road" stationId="0202" coords_chs="724,944,748,968" id="100" coords_en="724,944,748,968" lineId="0"/>
+    <Position text_chs="大托" text_en="Datuo" stationId="0103" coords_chs="1208,1620,1232,1644" id="100" coords_en="1208,1620,1232,1644" lineId="0"/>
+    <Position text_chs="西湖公园" text_en="Xihu Park" stationId="0203" coords_chs="810,944,834,968" id="100" coords_en="810,944,834,968" lineId="0"/>
+    <Position text_chs="桂花坪" text_en="Guihuaping" stationId="0104" coords_chs="1210,1564,1234,1588" id="100" coords_en="1210,1564,1234,1588" lineId="0"/>
+    <Position text_chs="省政府" text_en="Provincial Government" stationId="0105" coords_chs="1210,1512,1234,1536" id="100" coords_en="1210,1512,1234,1536" lineId="0"/>
+    <Position text_chs="橘子洲" text_en="Juzizhou" stationId="0205" coords_chs="960,946,984,970" id="100" coords_en="960,946,984,970" lineId="0"/>
+    <Position text_chs="友谊路" text_en="Youyi Road" stationId="0106" coords_chs="1210,1456,1234,1480" id="100" coords_en="1210,1456,1234,1480" lineId="0"/>
+    <Position text_chs="湘江中路" text_en="Xiangjiang Middle Road" stationId="0206" coords_chs="1036,946,1060,970" id="100" coords_en="1036,946,1060,970" lineId="0"/>
+    <Position text_chs="铁道学院" text_en="Railway Campus(CSU)" stationId="0107" coords_chs="1208,1398,1232,1422" id="100" coords_en="1208,1398,1232,1422" lineId="0"/>
+    <Position text_chs="涂家冲" text_en="Tujiachong" stationId="0108" coords_chs="1210,1340,1234,1364" id="100" coords_en="1210,1340,1234,1364" lineId="0"/>
+    <Position text_chs="芙蓉广场" text_en="Furong Square" stationId="0208" coords_chs="1178,944,1202,968" id="100" coords_en="1178,944,1202,968" lineId="0"/>
+    <Position text_chs="南湖路" text_en="Nanhu Road" stationId="0110" coords_chs="1192,1220,1216,1244" id="100" coords_en="1192,1220,1216,1244" lineId="0"/>
+    <Position text_chs="袁家岭" text_en="Yuanjialing" stationId="0210" coords_chs="1326,946,1350,970" id="100" coords_en="1326,946,1350,970" lineId="0"/>
+    <Position text_chs="南门口" text_en="Nanmenkou" stationId="0112" coords_chs="1120,1096,1144,1120" id="100" coords_en="1120,1096,1144,1120" lineId="0"/>
+    <Position text_chs="锦泰广场" text_en="Jintai Square" stationId="0212" coords_chs="1468,944,1492,968" id="100" coords_en="1468,944,1492,968" lineId="0"/>
+    <Position text_chs="黄兴广场" text_en="Huang Hsing Square" stationId="0113" coords_chs="1108,1018,1132,1042" id="100" coords_en="1108,1018,1132,1042" lineId="0"/>
+    <Position text_chs="培元桥" text_en="Peiyuanqiao" stationId="0115" coords_chs="1110,878,1134,902" id="100" coords_en="1110,878,1134,902" lineId="0"/>
+    <Position text_chs="长沙大道" text_en="Changsha Avenue" stationId="0215" coords_chs="1608,1138,1632,1162" id="100" coords_en="1608,1138,1632,1162" lineId="0"/>
+    <Position text_chs="开福寺" text_en="Kaifu Temple" stationId="0117" coords_chs="1108,732,1132,756" id="100" coords_en="1108,732,1132,756" lineId="0"/>
+    <Position text_chs="杜花路" text_en="Duhua Road" stationId="0217" coords_chs="1628,1424,1652,1448" id="100" coords_en="1628,1424,1652,1448" lineId="0"/>
+    <Position text_chs="北辰三角洲" text_en="Beichen Delta" stationId="0118" coords_chs="1108,666,1132,690" id="100" coords_en="1108,666,1132,690" lineId="0"/>
+    <Position text_chs="马厂" text_en="Machang" stationId="0119" coords_chs="1102,588,1126,612" id="100" coords_en="1102,588,1126,612" lineId="0"/>
+    <Position text_chs="开福区政府" text_en="Kaifu District Government" stationId="0120" coords_chs="1074,542,1098,566" id="100" coords_en="1074,542,1098,566" lineId="0"/>
+    <Position text_chs="梅溪湖东" text_en="East Meixi Lake" stationId="0220" coords_chs="586,964,610,988" id="100" coords_en="586,964,610,988" lineId="0"/>
+    <Position text_chs="文化艺术中心" text_en="Culture and Arts Center" stationId="0221" coords_chs="554,998,578,1022" id="100" coords_en="554,998,578,1022" lineId="0"/>
+    <Position text_chs="麓云路" text_en="Luyun Road" stationId="0222" coords_chs="522,1030,546,1054" id="100" coords_en="522,1030,546,1054" lineId="0"/>
+    <Position text_chs="梅溪湖西" text_en="West Meixi Lake" stationId="0223" coords_chs="492,1064,516,1088" id="100" coords_en="492,1064,516,1088" lineId="0"/>
+    <Position text_chs="中信广场" text_en="Zhongxin Square" stationId="0102" coords_chs="1198,1674,1238,1714" id="100" coords_en="1198,1674,1238,1714" lineId="0"/>
+    <Position text_chs="溁湾镇" text_en="Yingwanzhen" stationId="0204" coords_chs="870,938,910,978" id="100" coords_en="870,938,910,978" lineId="0"/>
+    <Position text_chs="黄土岭" text_en="Huangtuling" stationId="0109" coords_chs="1198,1268,1238,1308" id="100" coords_en="1198,1268,1238,1308" lineId="0"/>
+    <Position text_chs="迎宾路口" text_en="Yingbin Road" stationId="0209" coords_chs="1240,936,1280,976" id="100" coords_en="1240,936,1280,976" lineId="0"/>
+    <Position text_chs="长沙火车站" text_en="Railway Station" stationId="0211" coords_chs="1388,938,1428,978" id="100" coords_en="1388,938,1428,978" lineId="0"/>
+    <Position text_chs="侯家塘" text_en="Houjiatang" stationId="0111" coords_chs="1152,1158,1192,1198" id="100" coords_en="1152,1158,1192,1198" lineId="0"/>
+    <Position text_chs="万家丽广场" text_en="Wanjiali Square" stationId="0213" coords_chs="1532,936,1572,976" id="100" coords_en="1532,936,1572,976" lineId="0"/>
+    <Position text_chs="人民东路" text_en="Renmin East Road" stationId="0214" coords_chs="1602,1022,1642,1062" id="100" coords_en="1602,1022,1642,1062" lineId="0"/>
+    <Position text_chs="五一广场" text_en="Wuyi Square" stationId="0114" coords_chs="1100,934,1140,974" id="100" coords_en="1100,934,1140,974" lineId="0"/>
+    <Position text_chs="文昌阁" text_en="Wenchangge" stationId="0116" coords_chs="1102,810,1142,850" id="100" coords_en="1102,810,1142,850" lineId="0"/>
+    <Position text_chs="沙湾公园" text_en="Shawan Park" stationId="0216" coords_chs="1600,1270,1640,1310" id="100" coords_en="1600,1270,1640,1310" lineId="0"/>
+    <Position text_chs="长沙火车南站" text_en="South Railway Station" stationId="0218" coords_chs="1702,1410,1742,1450" id="100" coords_en="1702,1410,1742,1450" lineId="0"/>
+    <Position text_chs="光达" text_en="Guangda" stationId="0219" coords_chs="1784,1408,1824,1448" id="100" coords_en="1784,1408,1824,1448" lineId="0"/>
+    <Position text_chs="尚双塘" text_en="Shangshuangtang" stationId="0101" coords_chs="152,687,214,749" id="100" coords_en="152,687,214,749" lineId="1"/>
+    <Position text_chs="中信广场" text_en="Zhongxin Square" stationId="0102" coords_chs="235,688,297,750" id="100" coords_en="235,688,297,750" lineId="1"/>
+    <Position text_chs="大托" text_en="Datuo" stationId="0103" coords_chs="321,687,383,749" id="100" coords_en="321,687,383,749" lineId="1"/>
+    <Position text_chs="桂花坪" text_en="Guihuaping" stationId="0104" coords_chs="403,687,465,749" id="100" coords_en="403,687,465,749" lineId="1"/>
+    <Position text_chs="省政府" text_en="Provincial Government" stationId="0105" coords_chs="487,687,549,749" id="100" coords_en="487,687,549,749" lineId="1"/>
+    <Position text_chs="友谊路" text_en="Youyi Road" stationId="0106" coords_chs="568,687,630,749" id="100" coords_en="568,687,630,749" lineId="1"/>
+    <Position text_chs="铁道学院" text_en="Railway Campus(CSU)" stationId="0107" coords_chs="663,686,725,748" id="100" coords_en="663,686,725,748" lineId="1"/>
+    <Position text_chs="涂家冲" text_en="Tujiachong" stationId="0108" coords_chs="754,686,816,748" id="100" coords_en="754,686,816,748" lineId="1"/>
+    <Position text_chs="黄土岭" text_en="Huangtuling" stationId="0109" coords_chs="845,663,945,763" id="100" coords_en="845,663,945,763" lineId="1"/>
+    <Position text_chs="南湖路" text_en="Nanhu Road" stationId="0110" coords_chs="864,576,926,638" id="100" coords_en="864,576,926,638" lineId="1"/>
+    <Position text_chs="侯家塘" text_en="Houjiatang" stationId="0111" coords_chs="847,458,947,558" id="100" coords_en="847,458,947,558" lineId="1"/>
+    <Position text_chs="南门口" text_en="Nanmenkou" stationId="0112" coords_chs="735,474,797,536" id="100" coords_en="735,474,797,536" lineId="1"/>
+    <Position text_chs="黄兴广场" text_en="Huang Hsing Square" stationId="0113" coords_chs="627,473,689,535" id="100" coords_en="627,473,689,535" lineId="1"/>
+    <Position text_chs="五一广场" text_en="Wuyi Square" stationId="0114" coords_chs="496,455,596,555" id="100" coords_en="496,455,596,555" lineId="1"/>
+    <Position text_chs="培元桥" text_en="Peiyuanqiao" stationId="0115" coords_chs="410,469,472,531" id="100" coords_en="410,469,472,531" lineId="1"/>
+    <Position text_chs="文昌阁" text_en="Wenchangge" stationId="0116" coords_chs="391,367,491,467" id="100" coords_en="391,367,491,467" lineId="1"/>
+    <Position text_chs="开福寺" text_en="Kaifu Temple" stationId="0117" coords_chs="409,306,471,368" id="100" coords_en="409,306,471,368" lineId="1"/>
+    <Position text_chs="北辰三角洲" text_en="Beichen Delta" stationId="0118" coords_chs="410,224,472,286" id="100" coords_en="410,224,472,286" lineId="1"/>
+    <Position text_chs="马厂" text_en="Machang" stationId="0119" coords_chs="411,151,473,213" id="100" coords_en="411,151,473,213" lineId="1"/>
+    <Position text_chs="开福区政府" text_en="Kaifu District Government" stationId="0120" coords_chs="409,76,471,138" id="100" coords_en="409,76,471,138" lineId="1"/>
+    <Position text_chs="望城坡" text_en="Wangchengpo" stationId="0201" coords_chs="142,681,204,743" id="100" coords_en="142,681,204,743" lineId="2"/>
+    <Position text_chs="金星路" text_en="Jinxing Road" stationId="0202" coords_chs="226,684,288,746" id="100" coords_en="226,684,288,746" lineId="2"/>
+    <Position text_chs="西湖公园" text_en="Xihu Park" stationId="0203" coords_chs="310,685,372,747" id="100" coords_en="310,685,372,747" lineId="2"/>
+    <Position text_chs="溁湾镇" text_en="Yingwanzhen" stationId="0204" coords_chs="391,660,491,760" id="100" coords_en="391,660,491,760" lineId="2"/>
+    <Position text_chs="橘子洲" text_en="Juzizhou" stationId="0205" coords_chs="405,578,467,640" id="100" coords_en="405,578,467,640" lineId="2"/>
+    <Position text_chs="湘江中路" text_en="Xiangjiang Middle Road" stationId="0206" coords_chs="404,483,466,545" id="100" coords_en="404,483,466,545" lineId="2"/>
+    <Position text_chs="五一广场" text_en="Wuyi Square" stationId="0207" coords_chs="388,382,488,482" id="100" coords_en="388,382,488,482" lineId="2"/>
+    <Position text_chs="芙蓉广场" text_en="Furong Square" stationId="0208" coords_chs="404,307,466,369" id="100" coords_en="404,307,466,369" lineId="2"/>
+    <Position text_chs="迎宾路口" text_en="Yingbin Road" stationId="0209" coords_chs="386,183,486,283" id="100" coords_en="386,183,486,283" lineId="2"/>
+    <Position text_chs="袁家岭" text_en="Yuanjialing" stationId="0210" coords_chs="519,203,581,265" id="100" coords_en="519,203,581,265" lineId="2"/>
+    <Position text_chs="长沙火车站" text_en="Railway Station" stationId="0211" coords_chs="610,183,710,283" id="100" coords_en="610,183,710,283" lineId="2"/>
+    <Position text_chs="锦泰广场" text_en="Jintai Square" stationId="0212" coords_chs="728,200,790,262" id="100" coords_en="728,200,790,262" lineId="2"/>
+    <Position text_chs="万家丽广场" text_en="Wanjiali Square" stationId="0213" coords_chs="799,179,899,279" id="100" coords_en="799,179,899,279" lineId="2"/>
+    <Position text_chs="人民东路" text_en="Renmin East Road" stationId="0214" coords_chs="802,276,902,376" id="100" coords_en="802,276,902,376" lineId="2"/>
+    <Position text_chs="长沙大道" text_en="Changsha Avenue" stationId="0215" coords_chs="819,384,881,446" id="100" coords_en="819,384,881,446" lineId="2"/>
+    <Position text_chs="沙湾公园" text_en="Shawan Park" stationId="0216" coords_chs="801,470,901,570" id="100" coords_en="801,470,901,570" lineId="2"/>
+    <Position text_chs="杜花路" text_en="Duhua Road" stationId="0217" coords_chs="819,583,881,645" id="100" coords_en="819,583,881,645" lineId="2"/>
+    <Position text_chs="长沙火车南站" text_en="South Railway Station" stationId="0218" coords_chs="804,662,904,762" id="100" coords_en="804,662,904,762" lineId="2"/>
+    <Position text_chs="光达" text_en="Guangda" stationId="0219" coords_chs="820,777,882,839" id="100" coords_en="820,777,882,839" lineId="2"/>
+    <Position text_chs="梅溪湖东" text_en="East Meixi Lake" stationId="0220" coords_chs="141,564,203,626" id="100" coords_en="141,564,203,626" lineId="2"/>
+    <Position text_chs="文化艺术中心" text_en="Culture and Arts Center" stationId="0221" coords_chs="141,443,203,505" id="100" coords_en="141,443,203,505" lineId="2"/>
+    <Position text_chs="麓云路" text_en="Luyun Road" stationId="0222" coords_chs="140,324,202,386" id="100" coords_en="140,324,202,386" lineId="2"/>
+    <Position text_chs="梅溪湖西" text_en="West Meixi Lake" stationId="0223" coords_chs="141,203,203,265" id="100" coords_en="141,203,203,265" lineId="2"/>
+</LineMap>
