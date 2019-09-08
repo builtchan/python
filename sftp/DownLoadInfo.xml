@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<stationlist>
+    <devices name="下麦西" >
+        <tvminfo id="1" date="20180221/20180225"/>
+        <tvminfo id="2" date="20180223"/>
+    </devices>
+	<devices name="老湾塘">
+
+    </devices>
+
+	<devices name="阅山湖">
+
+    </devices>
+	<devices name="林城西">
+
+    </devices>
+	<devices name="观山湖">
+
+    </devices>
+	<devices name="国态">
+
+    </devices>
+	<devices name="阳关">
+
+    </devices>
+	<devices name="新寨">
+
+    </devices>
+	<devices name="白鹭湖">
+
+    </devices>
+    <devices name="贵阳北">
+
+    </devices>
+    <devices name="实验室">
+        <tvminfo id="1" date="20180307/20180310"/>
+        <tvminfo id="2" date="20180307"/>
+    </devices>
+</stationlist>
