@@ -6,7 +6,8 @@
 
 '''
 
-from PyQt5 import QtCore, QtWidgets, QtGui
+from PyQt5 import QtCore, QtWidgets, QtGui 
+from PyQt5.Qt import QRegExp, QRegExpValidator
 import sys
 
 
@@ -31,6 +32,7 @@ class UI_Form(object):
         self.choiceLabelWidth = 170
 
     def setFrom(self, form):
+        self.mywidget = form 
         form.setObjectName('form')
         form.setFixedWidth(self.choiceLabelWidth * 4 + self.choiceLeftIndex * 5)
         form.setFixedHeight(330)
@@ -115,6 +117,8 @@ class UI_Form(object):
         self.id1LineEdit = QtWidgets.QLineEdit(form)
         self.id1LineEdit.setGeometry(250, self.choiceLabelHeight + self.choiceTopIndex * 1.5, 120, 40)
         self.id1LineEdit.setFont(font)
+        regExp = QRegExp('^[A-Fa-f0-9]{0,8}')
+        self.id1LineEdit.setValidator(QRegExpValidator(regExp,form))
 
         # id2
         self.id2Label = QtWidgets.QLabel(form)
@@ -125,6 +129,15 @@ class UI_Form(object):
         self.id2LineEdit = QtWidgets.QLineEdit(form)
         self.id2LineEdit.setGeometry(470, self.choiceLabelHeight + self.choiceTopIndex * 1.5, 120, 40)
         self.id2LineEdit.setFont(font)
+        self.id2LineEdit.setValidator(QRegExpValidator(regExp,form))
+
+        # 状态转换
+        self.statusTransButton = QtWidgets.QPushButton(form)
+        self.statusTransButton.setText("状态转换")
+        self.statusTransButton.setGeometry(600, self.choiceLabelHeight + self.choiceTopIndex * 1.5, 120, 40)
+        self.statusTransButton.setStyleSheet('QPushButton{background-color:rgb(85, 170, 255);color:white;border-radius:8px;border: 2px groove gray; \
+                         border-style: outset;font-family:Arial;font-size:20px;} QPushButton:pressed{background-color:rgb(85, 170, 255);border-style:inset;}')
+        self.statusTransButton.clicked.connect(self.statusTransSlot)
 
         # 全选按钮
         self.choiceRadiogroup = QtWidgets.QButtonGroup(form)
@@ -205,7 +218,21 @@ class UI_Form(object):
         for i in range(8):
             self.bitRadioBtn['bit' + RadioBtn.objectName() + str(i)].setChecked(RadioBtn.isChecked())
 
-
+    def statusTransSlot(self):
+        id_1 = self.id1LineEdit.text()
+        id_2 = self.id2LineEdit.text()
+        if len(id_1) == 0 or len(id_2) == 0 :
+            QtWidgets.QMessageBox.warning(self.mywidget, "提示", "请填充计算ID", QtWidgets.QMessageBox.Ok, QtWidgets.QMessageBox.Cancel)
+            return
+        for i in range(4):
+            iId1 = (int(id_1, base=16) >> (i * 8)) & 255
+            iId2 = (int(id_2, base=16) >> (i * 8)) & 255
+            print("iId1 = ", iId1 , "iId2 = ",iId2)
+            for j in range(8):
+                self.bitCheckBoxes['bit' + str(i + 1) + str(j)].setChecked((iId1 >> j) & 1)
+                self.bitRadioBtn['bit' + str(i + 1) + str(j)].setChecked((iId1 >> j) & 1)
+                if (iId2 >> j) & 1 :
+                    self.bitRadioBtn['bit' + str(i + 1) + str(j)].setChecked(1 == ((iId2 >> j) & 1))
 
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
